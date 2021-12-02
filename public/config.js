@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '寒曦朦的服务器',
 
   // 站点链接
   SiteUrl: '/',
@@ -16,9 +16,9 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm789697693-44a60c14a582cbc3e07fc0c1',
-    'm788139590-6e9c6ec1b159e5eab7bf0f5f',
-    'm788139740-7fd3dc1a41ab44819ad0ecf6',
+    'm789938357-0d7fda65185b4bc65ef9c99d',
+    'm789938291-ab2c94ee57521c09a064c728',
+    'm789938295-cfbf28e05735b746b4925289',
   ],
 
   // 是否显示监测站点的链接
